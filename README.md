@@ -6,9 +6,14 @@ I can make a commit
 
 And another
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 Then clone to another machine
 
 And rewrite history
 =======
 >>>>>>> 3855ac5... 2
+=======
+
+Then clone to another machine
+>>>>>>> d42e415... 3
